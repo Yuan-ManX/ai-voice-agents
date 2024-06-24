@@ -42,3 +42,13 @@ AI Voice Agents - Exploring the Next Generation of Human-Machine Interaction! ðŸ
 | [Whisper](https://openai.com/index/whisper/)                | Whisper is a general-purpose speech recognition model.      | [GitHub](https://github.com/openai/whisper)                       |[arXiv](https://arxiv.org/abs/2212.04356)  |[Hugging Face](https://huggingface.co/openai/whisper-large-v2)    |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+###  <span id="ag">Audio Generation</span>
+
+| Source                   | Description                                                 |   Code   |    Paper   |   Model  |
+| :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-------: |
+| [Make-An-Audio 3](https://github.com/Text-to-Audio/Make-An-Audio-3)                | Transforming Text into Audio via Flow-based Large Diffusion Transformers.      | [GitHub](https://github.com/Text-to-Audio/Make-An-Audio-3)                       |[arXiv](https://arxiv.org/abs/2305.18474)  |[Hugging Face](https://huggingface.co/AIGC-Audio/Make-An-Audio-3)    |
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
