@@ -35,4 +35,10 @@ AI Voice Agents - Exploring the Next Generation of Human-Machine Interaction! ðŸ
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
 
+###  <span id="asr">Automatic Speech Recognition</span>
 
+| Source                   | Description                                                 |   Code   |    Paper   |   Model  |
+| :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-------: |
+| [Whisper](https://openai.com/index/whisper/)                | Whisper is a general-purpose speech recognition model.      | [GitHub](https://github.com/openai/whisper)                       |[arXiv](https://arxiv.org/abs/2212.04356)  |[Hugging Face](https://huggingface.co/openai/whisper-large-v2)    |
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
