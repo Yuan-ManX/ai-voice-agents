@@ -31,6 +31,7 @@ AI Voice Agents - Exploring the Next Generation of Human-Machine Interaction! ðŸ
 | Source                   | Description                                                 |   Code   |    Paper   |   Model  |
 | :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-------: |
 | [ChatTTS](https://github.com/2noise/ChatTTS)               | ChatTTS is a text-to-speech model designed specifically for dialogue scenario such as LLM assistant.      | [GitHub](https://github.com/2noise/ChatTTS)                       |                   |[Hugging Face](https://huggingface.co/2Noise/ChatTTS)    |
+| [ElevenLabs](https://elevenlabs.io/)               | ElevenLabs: Text to Speech & AI Voice Generator.      |                   |                   |[API](https://github.com/elevenlabs/elevenlabs-python)    |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
