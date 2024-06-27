@@ -35,6 +35,7 @@ AI Voice Agents - Exploring the Next Generation of Human-Machine Interaction! ü
 | [ElevenLabs](https://elevenlabs.io/)               | ElevenLabs: Text to Speech & AI Voice Generator.      |                   |                   |[API](https://github.com/elevenlabs/elevenlabs-python)    |
 | [Matcha-TTS](https://shivammehta25.github.io/Matcha-TTS/)               | Matcha-TTS: A fast TTS architecture with conditional flow matching.      | [GitHub](https://github.com/shivammehta25/Matcha-TTS)                       |[arXiv](https://arxiv.org/abs/2309.03199)              |    |
 | [StyleTTS 2](https://github.com/yl4579/StyleTTS2)               | Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models.      | [GitHub](https://github.com/yl4579/StyleTTS2)                       |[arXiv](https://arxiv.org/abs/2306.07691)              |    |
+| [XTTS](https://github.com/coqui-ai/TTS)               | üê∏TTS is a library for advanced Text-to-Speech generation.      | [GitHub](https://github.com/coqui-ai/TTS)                          |             |    |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
