@@ -21,6 +21,7 @@ AI Voice Agents - Exploring the Next Generation of Human-Machine Interaction! �
 
 | Source                   | Description                                                 |   Code   |    Paper   |   Model  |
 | :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-------: |
+| [Bland AI](https://www.bland.ai)               | Bland AI - Automate Phone Calls with Conversational AI. Transform your enterprise communication with Bland AI. Automate inbound and outbound phone calls using AI that sounds human. Bland is a platform for AI phone calling. Using our API, you can easily send or receive phone calls with a programmable voice agent.      |                   |                   |[API](https://docs.bland.ai/welcome-to-bland)    |
 | [GPT-4o](https://openai.com/index/hello-gpt-4o/)               | GPT-4o (“o” for “omni”) is a step towards much more natural human-computer interaction—it accepts as input any combination of text, audio, image, and video and generates any combination of text, audio, and image outputs.      |                   |                   |[API](https://platform.openai.com/docs/models/gpt-4o)    |
 | [Retell AI](https://www.retellai.com/)               | Retell AI -Build Advanced Voice AI, Powered by LLM.      |                   |                   |[API](https://www.retellai.com/)    |
 
